@@ -3,6 +3,8 @@
 Uses applescript handler to pick up message text. A response is sent back. 
 ### Usage:
 
+(Make sure theHandle.scpt has <b> your </b> own attributes -- it is preloaded)
+
 1. Make sure applescript has privelages over your system. This is just generally good. 
 2. Load up iMessage, making sure to select the handler in your settings
 
